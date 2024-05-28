@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "SZ5oLlt1JtK/pmeoam104PmLiCClqEMohSXR8Hx4BqFdGW5Ldit54EEASKEOqIg17ZSVYFAJ7cePMD0GcAdN0g==",
+  "dgSpecHash": "huBtZVQT0TITP0LGiYLMRHcAYrBp/jisyODieaJdsh8XuvQejy9fyiLxgBQ39WPq3+I88/+vnkomdqSWXrBjTA==",
   "success": true,
   "projectFilePath": "D:\\Confiamed\\Proyectos\\Microservicios\\Isis\\Apps\\ordersAPI\\ordersAPI\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\EMorillo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\EMorillo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
     "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
-    "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+    "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }

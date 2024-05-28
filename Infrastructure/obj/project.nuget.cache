@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "kDm88Gmemern+yZY1OMI2e73M2PsQc22ezLaqlrjHMI03ijtEPiMlDhwqQ9n6cufw9HaSk71ZOkRhwV72/Xu7Q==",
+  "dgSpecHash": "BwtGwpy1H1AjL7tSRAGNJ0QrDxjDnPF9Znj+uZY96klFCBlsijOLZVc6Pj6gm9ogxM6ImGpDcqBew2J+K0hi/w==",
   "success": true,
   "projectFilePath": "D:\\Confiamed\\Proyectos\\Microservicios\\Isis\\Apps\\ordersAPI\\ordersAPI\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\EMorillo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\EMorillo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
     "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
     "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
