@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kDm88Gmemern+yZY1OMI2e73M2PsQc22ezLaqlrjHMI03ijtEPiMlDhwqQ9n6cufw9HaSk71ZOkRhwV72/Xu7Q==",
+  "success": true,
+  "projectFilePath": "D:\\Confiamed\\Proyectos\\Microservicios\\Isis\\Apps\\ordersAPI\\ordersAPI\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\EMorillo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
